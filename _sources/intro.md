@@ -1,7 +1,6 @@
 # Bienvenidos
 
-Datos personales
-:::
+Datos personales:
 Erika Estefania Paredes Campoverde 
 Cel. 0967608375
 Edad: 28 años
@@ -11,4 +10,3 @@ Estado civil: soltera
 Religión:  católica 
 Trayectoria académica: 6to semestre utpl, ing en tecnologías de la información 
 CI: 2100666078
-:::
