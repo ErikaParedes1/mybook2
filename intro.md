@@ -1,7 +1,7 @@
 # Bienvenidos
 
-Datos personales: 
-::
+Datos personales
+:::
 Erika Estefania Paredes Campoverde 
 Cel. 0967608375
 Edad: 28 años
